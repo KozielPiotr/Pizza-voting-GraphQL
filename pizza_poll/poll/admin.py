@@ -1,3 +1,12 @@
+"""
+Models registered at admin site.
+"""
+
 from django.contrib import admin
 
-# Register your models here.
+from .models import Pizza, Topping, Vote
+
+
+admin.site.register(Pizza)
+admin.site.register(Topping)
+admin.site.register(Vote)
