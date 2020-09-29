@@ -1,0 +1,13 @@
+-i https://pypi.org/simple
+aniso8601==8.0.0
+asgiref==3.2.10
+django==3.1.1
+graphene-django==3.0.0b6
+graphene==3.0b5
+graphql-core==3.1.2
+graphql-relay==3.0.0
+promise==2.3
+pytz==2020.1
+six==1.15.0
+sqlparse==0.3.1
+unidecode==1.1.1
