@@ -9,6 +9,7 @@ black = "*"
 [packages]
 django = "*"
 graphene-django = "*"
+django-filter = "*"
 
 [requires]
 python_version = "3.8"
